@@ -29,6 +29,7 @@ include (
         ':kits:optimizely-kit',
         ':kits:responsys-kit',
         ':kits:clevertap-kit',
+        ':kits:pilgrimsdk-kit',
 	    ':testutils',
         ':android-core',
         ':android-kit-base'
