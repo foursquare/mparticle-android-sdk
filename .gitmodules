@@ -90,4 +90,5 @@
 	url = git@github.com:mparticle-integrations/mparticle-android-integration-clevertap.git
 [submodule "kits/pilgrimsdk-kit"]
 	path = kits/pilgrimsdk-kit
-	url = https://github.com/foursquare/mparticle-android-integration-example
+	url = git@github.com:foursquare/mparticle-android-integration-example
+
